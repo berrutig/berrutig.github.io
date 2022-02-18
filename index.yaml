@@ -6,10 +6,10 @@ entries:
     created: "2022-02-18T11:46:59.219159798Z"
     dependencies:
     - name: pages-api
-      repository: https://berrutig.github.io
+      repository: https://berrutig.github.io/
       version: 1.0.0
     - name: mysql
-      repository: https://berrutig.github.io
+      repository: https://berrutig.github.io/
       version: 1.0.0
     description: A Helm chart for Pages Application
     digest: 4296b0e45f432fda5cdf38fee23278e0e927dabf90ee43f06464f82aa4b00a63
